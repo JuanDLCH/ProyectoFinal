@@ -1,0 +1,2 @@
+rootProject.name='ProyectoFinal'
+include ':app', ':jplot1.2 (1)'
